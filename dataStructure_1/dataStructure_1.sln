@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphTree", "GraphTree\Grap
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sort", "sort\sort.vcxproj", "{77D6BCA8-AE34-4A2E-AAE5-8F091B84C895}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search", "Search\Search.vcxproj", "{B29B758C-B646-4D39-9E93-201BF053C3DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{77D6BCA8-AE34-4A2E-AAE5-8F091B84C895}.Release|x64.Build.0 = Release|x64
 		{77D6BCA8-AE34-4A2E-AAE5-8F091B84C895}.Release|x86.ActiveCfg = Release|Win32
 		{77D6BCA8-AE34-4A2E-AAE5-8F091B84C895}.Release|x86.Build.0 = Release|Win32
+		{B29B758C-B646-4D39-9E93-201BF053C3DD}.Debug|x64.ActiveCfg = Debug|x64
+		{B29B758C-B646-4D39-9E93-201BF053C3DD}.Debug|x64.Build.0 = Debug|x64
+		{B29B758C-B646-4D39-9E93-201BF053C3DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{B29B758C-B646-4D39-9E93-201BF053C3DD}.Debug|x86.Build.0 = Debug|Win32
+		{B29B758C-B646-4D39-9E93-201BF053C3DD}.Release|x64.ActiveCfg = Release|x64
+		{B29B758C-B646-4D39-9E93-201BF053C3DD}.Release|x64.Build.0 = Release|x64
+		{B29B758C-B646-4D39-9E93-201BF053C3DD}.Release|x86.ActiveCfg = Release|Win32
+		{B29B758C-B646-4D39-9E93-201BF053C3DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
